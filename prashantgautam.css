@@ -1,0 +1,56 @@
+body{
+  text-align: center;
+}
+#bday{
+  height:auto;
+  width: 100%;
+  padding: 2rem 1rem  2rem 1rem;
+  background-color: #FAFDD6;
+}
+.img
+{
+  height:50%;
+  width: 50%;
+  margin-left: 0rem;
+  padding: 5rem 0 5rem 0;
+}
+
+#name
+{
+  height: auto;
+  background-color: #FFDDEE;
+  color: #F473B9;
+  /* background-color: #E6BA95;
+  color: #fff; */
+  /* 8E3200; */
+  padding: 4rem 1rem 1.5rem 1rem;
+}
+h2{
+  font-family: 'Dancing Script', cursive;
+  /* font-family: 'Sacramento', cursive; */
+  font-size: 6rem;
+  line-height: 10rem;
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 8rem;
+  line-height: 13rem;
+}
+
+
+.testimonial-image{
+  width: 80%;
+  /* border-radius: 100%; */
+  margin: 20px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+
+#foter
+{
+  background-color: #8E3200;
+  color: #FFEBC1;
+  font-size: 3.5rem;
+  padding: 5rem 1rem 5rem 1rem;
+}
